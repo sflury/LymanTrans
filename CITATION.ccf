@@ -7,8 +7,6 @@ authors:
   - given-names: Sophia
     family-names: Flury
     orcid: 'https://orcid.org/0000-0002-0159-2613'
-identifiers:
-  - type: doi
-    value: 
+version: 0.1.0
 repository-code: 'https://github.com/sflury/LymanTrans'
 license: GPL-3.0-or-later
