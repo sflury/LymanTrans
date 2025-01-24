@@ -11,7 +11,7 @@ and 900 Angstroms but produce different absorption line profiles.
 ``` python
 from LymanTrans import *
 from numpy import linspace
-wave = np.linspace(800,1250,451)
+wave = linspace(800,1250,451)
 # transmission object for N ~ 10^17 cm^-2, Cf = 1, b = 100 km s^-1
 T1 = LymanTransmission(wave,17.0627,1.00,100).trans
 # transmission object for N ~ 10^17.35 cm^-2, Cf = 0.65, b = 100 km s^-1
