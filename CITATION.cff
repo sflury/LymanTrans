@@ -8,6 +8,6 @@ authors:
     family-names: Flury
     orcid: 'https://orcid.org/0000-0002-0159-2613'
 version: 0.1.0
-doi: 
+doi: 10.5281/zenodo.14731368
 repository-code: 'https://github.com/sflury/LymanTrans'
 license: GPL-3.0-or-later
