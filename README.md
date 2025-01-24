@@ -38,15 +38,16 @@ this code is used. Please cite it accordingly using the BibTeX provided below.
         month = jan,
       version = {0.1},
           url = {https://github.com/sflury/LymanTrans},
-          doi = {} }
+          doi = {10.5281/zenodo.14731368} }
 ```
+
+The Zenodo DOI is also available here:
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14731368.svg)](https://doi.org/10.5281/zenodo.14731368)
+
 
 This transmission function uses the photoionization cross-sections from 
 Verner et al. 1996 and atomic data from Mohr et al. 2008 (with optional
 atomic data from Morton et al. 2003 in place of Mohr et al 2008).
-
-The Zenodo DOI is also available here:
-[![DOI](https://zenodo.org/badge/)](https://zenodo.org/doi/)
 
 ### Verner et al. 1996
 ``` bibtex
