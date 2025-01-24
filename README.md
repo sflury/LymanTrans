@@ -42,6 +42,7 @@ this code is used. Please cite it accordingly using the BibTeX provided below.
 ```
 
 The Zenodo DOI is also available here:
+
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14731368.svg)](https://doi.org/10.5281/zenodo.14731368)
 
 
